@@ -58,10 +58,18 @@ body, html {
     height: 100%;
     width: 22%;
     vertical-align: middle;
-    text-align: center;
 }
 
 .header-menu ol {
     vertical-align: middle;
     margin-left: 50px;
+    color: rgb(235,235,235);
+    font-size: 23px;
+    text-transform: uppercase;
+    margin-top: 55%;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.header-menu ol li{
+    margin-bottom: 30px;
 }
